@@ -1,4 +1,4 @@
-﻿namespace Properties
+namespace Properties
 {
     internal class Program
     {
@@ -55,21 +55,21 @@
             }
 
             // property set and get
-            public string firstName
+            public string FirstName
             {
                 get { return _firstName; }
                 set { _firstName = value; }
             }
 
             // property set and get
-            public string lastName
+            public string LastName
             {
                 get { return _lastName; }
                 set { _lastName = value; }
             }
 
             // Read Only Property
-            public string fullName
+            public string FullName
             {
                 get { return _firstName + " " + _lastName; }
             }
@@ -91,13 +91,13 @@
 
             Console.WriteLine();
 
-            person1.firstName = "Abdelrahman";
-            person1.lastName = "Medhat";
+            person1.FirstName = "Abdelrahman";
+            person1.LastName = "Medhat";
 
             Console.WriteLine("ID        : " + person1.ID);
-            Console.WriteLine("First Name: " + person1.firstName);
-            Console.WriteLine("Last Name : " + person1.lastName);
-            Console.WriteLine("Full Name : " + person1.fullName);
+            Console.WriteLine("First Name: " + person1.FirstName);
+            Console.WriteLine("Last Name : " + person1.LastName);
+            Console.WriteLine("Full Name : " + person1.FullName);
 
         }
     }
