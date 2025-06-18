@@ -1,4 +1,4 @@
-﻿namespace Constructors
+namespace Constructors
 {
     internal class Constructors
     {
@@ -13,7 +13,7 @@
 
             public clsAddress(string addressLine1, string addressLine2, string poBox, string zipCode)
             {
-                Console.WriteLine("Hi im a constructor.");
+                
                 _addressLine1 = addressLine1;
                 _addressLine2 = addressLine2;
                 _poBox = poBox;
