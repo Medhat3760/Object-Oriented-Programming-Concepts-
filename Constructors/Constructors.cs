@@ -11,6 +11,11 @@ namespace Constructors
             private string _poBox;
             private string _zipCode;
 
+            public clsAddress()
+            {
+                Console.WriteLine("Hi, im a constructor.");
+            }
+
             public clsAddress(string addressLine1, string addressLine2, string poBox, string zipCode)
             {
                 
@@ -20,6 +25,17 @@ namespace Constructors
                 _zipCode = zipCode;
 
             }
+
+            // copy constructor 
+            //public clsAddress(ref clsAddress old_obj)
+            //{
+
+            //    _addressLine1 = old_obj._addressLine1;
+            //    _addressLine2 = old_obj._addressLine2;
+            //    _poBox= old_obj._poBox;
+            //    _zipCode= old_obj._zipCode;
+
+            //}
 
             public string AddressLine1
             {
@@ -66,6 +82,14 @@ namespace Constructors
             clsAddress address1 = new clsAddress("Hospital Street", "A 303", "11183", "4444");
 
             address1.Print();
+
+            // copy constructor
+            //clsAddress address2 = new clsAddress(ref address1);
+
+            // compiler will do copy constructor automatically
+            clsAddress address2 = address1;
+
+            address2.Print();
 
         }
     }
