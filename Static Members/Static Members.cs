@@ -1,4 +1,4 @@
-﻿namespace Static_Members
+namespace Static_Members
 {
     internal class Program
     {
@@ -12,6 +12,13 @@
             public clsA()
             {
                 counter++;
+            }
+
+            public static int Function1()
+            {
+
+                return 10;
+
             }
 
             public void Print()
@@ -44,6 +51,10 @@
             A1.Print();
             A2.Print();
             A3.Print();
+
+            Console.WriteLine("\nStatic method:");
+
+            Console.WriteLine(clsA.Function1());          
 
         }
     }
