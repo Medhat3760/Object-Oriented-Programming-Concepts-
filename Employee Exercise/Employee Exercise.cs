@@ -128,7 +128,8 @@ namespace Employee_Exercise
                 get { return _salary; }
                 set { _salary = value; }
             }
-
+            
+            // Function Overridding
             public void Print()
             {
 
