@@ -5,7 +5,7 @@ namespace Employee_Exercise
     internal class Program
     {
 
-        class clsPerson
+        public class clsPerson
         {
 
             private int _ID;
@@ -83,11 +83,11 @@ namespace Employee_Exercise
 
             }
 
-            public void SendSMS(string sms)
+            public void SendSMS(string textMessage)
             {
 
                 Console.WriteLine("\nThe following SMS sent successfully to phone: " + _phone);
-                Console.WriteLine(sms);
+                Console.WriteLine(textMessage);
 
             }
 
@@ -128,8 +128,7 @@ namespace Employee_Exercise
                 get { return _salary; }
                 set { _salary = value; }
             }
-            
-            // Overriding Function
+
             public void Print()
             {
 
