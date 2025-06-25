@@ -1,4 +1,4 @@
-﻿namespace Vitrtual_Functions
+namespace Vitrtual_Functions
 {
     internal class Program
     {
@@ -37,18 +37,20 @@
         {
 
             clsEmployee employee1 = new clsEmployee();
-            employee1.Print();
-
             clsStudent student1 = new clsStudent();
+
+            // Late/Dynamic Binding: at runtime
+            employee1.Print();
             student1.Print();
 
             Console.WriteLine();
 
             // Upcasting to base class reference
             clsPerson person1 = employee1;
-            person1.Print();
-
             clsPerson person2 = student1;
+
+            // Late/Dynamic Binding: at runtime
+            person1.Print();
             person2.Print();
 
         }
