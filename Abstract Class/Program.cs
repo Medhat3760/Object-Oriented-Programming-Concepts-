@@ -6,7 +6,7 @@
         // Abstract class | Interface | Contract.
         abstract class clsMobile
         {
-            public int var1;
+            
             public abstract void Dial(string phoneNumber); // Must be overridden
 
             public abstract void SendSMS(string phoneNumber, string textMessage); // Must be overridden
@@ -22,7 +22,6 @@
             public override void Dial(string phoneNumber)
             {
                 // body 
-
             }
 
             public override void SendSMS(string phoneNumber, string textMessage)
