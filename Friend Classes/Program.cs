@@ -44,8 +44,6 @@
             clsA a = new clsA();
             clsB b = new clsB();
 
-            Console.WriteLine(a._var1);
-
             b.Display(a);
 
             Console.ReadKey();
