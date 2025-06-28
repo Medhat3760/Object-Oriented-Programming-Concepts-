@@ -1,4 +1,7 @@
-﻿namespace Structure_Inside_Class
+using System.Net;
+using static Structure_Inside_Class.clsPerson;
+
+namespace Structure_Inside_Class
 {
 
     class clsPerson
@@ -15,27 +18,33 @@
         }
 
         public string fullName;
-        public stAddress address;
+        private stAddress _address;
 
         public clsPerson()
         {
 
             fullName = "Abdelrahman Medhat";
-            address.addressLine1 = "Building 10";
-            address.addressLine2 = "Queen Rania Street";
-            address.city = "Mansoura";
-            address.country = "Egypt";
+            _address.addressLine1 = "Building 10";
+            _address.addressLine2 = "Queen Rania Street";
+            _address.city = "Mansoura";
+            _address.country = "Egypt";
 
+        }
+
+        public stAddress Address
+        {
+            get { return _address; }
+            set { _address = value; }
         }
 
         public void PrintAddress()
         {
 
             Console.WriteLine("\nAddress:");
-            Console.WriteLine(address.addressLine1);
-            Console.WriteLine(address.addressLine2);
-            Console.WriteLine(address.city);
-            Console.WriteLine(address.country);
+            Console.WriteLine(_address.addressLine1);
+            Console.WriteLine(_address.addressLine2);
+            Console.WriteLine(_address.city);
+            Console.WriteLine(_address.country);
 
         }
 
@@ -47,6 +56,19 @@
         {
 
             clsPerson person1 = new clsPerson();
+
+            person1.PrintAddress();
+
+            Console.WriteLine();
+
+            stAddress addr;
+
+            addr.addressLine1 = "Building 20";
+            addr.addressLine2 = "Tahreer st";
+            addr.city = "Cairo";
+            addr.country = "Egypt";
+
+            person1.Address = addr;
 
             person1.PrintAddress();
 
