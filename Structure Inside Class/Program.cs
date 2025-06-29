@@ -1,3 +1,4 @@
+using System.Diagnostics.Metrics;
 using System.Net;
 using static Structure_Inside_Class.clsPerson;
 
@@ -61,12 +62,13 @@ namespace Structure_Inside_Class
 
             Console.WriteLine();
 
-            stAddress addr;
-
-            addr.addressLine1 = "Building 20";
-            addr.addressLine2 = "Tahreer st";
-            addr.city = "Cairo";
-            addr.country = "Egypt";
+            stAddress addr = new stAddress
+            {
+                addressLine1 = "Building 20",
+                addressLine2 = "Tahreer st",
+                city = "Cairo",
+                country = "Egypt"
+            };
 
             person1.Address = addr;
 
