@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\bin\Debug\net7.0\Objects and Vectors.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\bin\Debug\net7.0\Objects and Vectors.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\bin\Debug\net7.0\Objects and Vectors.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\bin\Debug\net7.0\Objects and Vectors.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\bin\Debug\net7.0\Objects and Vectors.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\refint\Objects and Vectors.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\Objects and Vectors.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Objects and Vectors\obj\Debug\net7.0\ref\Objects and Vectors.dll
