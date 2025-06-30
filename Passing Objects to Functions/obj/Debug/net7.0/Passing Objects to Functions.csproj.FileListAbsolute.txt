@@ -1,0 +1,30 @@
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.exe
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.deps.json
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.runtimeconfig.json
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.dll
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.pdb
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.csproj.AssemblyReference.cache
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.AssemblyInfoInputs.cache
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.AssemblyInfo.cs
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.dll
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\refint\Passing Objects to Functions.dll
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.pdb
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.genruntimeconfig.cache
+D:\Programs Files\Github Object Oriented Repo\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\ref\Passing Objects to Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\bin\Debug\net7.0\Passing Objects to Functions.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\refint\Passing Objects to Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\Passing Objects to Functions.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\Passing Objects to Functions\obj\Debug\net7.0\ref\Passing Objects to Functions.dll
