@@ -27,12 +27,14 @@
 
             short numberOfObjects = 5;
 
-            for(short i = 0; i < numberOfObjects; i++)
+            // Insert objects at the end of the list
+            for (short i = 0; i < numberOfObjects; i++)
             {
                 list1.Add(new clsA(i));
             }
 
-            for(short i = 0; i < numberOfObjects; i++)
+            // Print object contents
+            for (short i = 0; i < numberOfObjects; i++)
             {
                 list1[i].Print();
             }
