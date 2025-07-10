@@ -25,7 +25,7 @@
 
             short numberOfObjects = 5;
 
-            // allocating dynamic array of Size numberOfObjects (null)
+            // Allocating dynamic array of Size numberOfObjects (null)
             clsA[] arrA = new clsA[numberOfObjects];
 
             // Initialize each object using parameterized constructor
