@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\bin\Debug\net7.0\String Library Project.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\bin\Debug\net7.0\String Library Project.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\bin\Debug\net7.0\String Library Project.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\bin\Debug\net7.0\String Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\bin\Debug\net7.0\String Library Project.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\refint\String Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\String Library Project.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Concepts-\String Library Project\obj\Debug\net7.0\ref\String Library Project.dll
