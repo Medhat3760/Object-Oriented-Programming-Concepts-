@@ -1383,7 +1383,7 @@ namespace Date_Library_Project
             return dateFrom;
         }
 
-        public static bool IstDate1AfterDate2(clsDate date1, clsDate date2)
+        public static bool IsDate1AfterDate2(clsDate date1, clsDate date2)
         {
 
             return !IsDate1BeforeDate2(date1, date2) && !IsDate1EqualDate2(date1, date2);
@@ -1393,7 +1393,7 @@ namespace Date_Library_Project
         public bool IsDateAfterDate2(clsDate date2)
         {
 
-            return IstDate1AfterDate2(this, date2);
+            return IsDate1AfterDate2(this, date2);
 
         }
 
